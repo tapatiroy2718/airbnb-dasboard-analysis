@@ -16,7 +16,7 @@ This project transforms raw Airbnb listing data into an interactive dashboard to
 ---
 
 
-## 📂 Dataset Information
+##  Dataset Information
 
 - File Name: `airbnb_listings.csv`  
 - Total Records: 49,999  
@@ -24,7 +24,7 @@ This project transforms raw Airbnb listing data into an interactive dashboard to
 
 ---
 
-## 📑 Data Dictionary
+##  Data Dictionary
 
 | Column Name        | Description                  |
 |-------------------|------------------------------|
@@ -41,23 +41,23 @@ This project transforms raw Airbnb listing data into an interactive dashboard to
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
-### 🏘️ Listings Overview
+###  Listings Overview
 - Total Listings: 49,999  
 - Total Hosts: 37,614  
 - Total Reviews: 1,629,301  
 
 ---
 
-### 🛏️ Room Type Distribution
+###  Room Type Distribution
 - Entire home/apt: ~59%  
 - Private room: ~40%  
 - Shared/Hotel room: <1%  
 
 ---
 
-### 💰 Pricing Insights
+###  Pricing Insights
 
 | Room Type        | Avg Price |
 |------------------|----------|
@@ -70,7 +70,7 @@ Insight: Hotel rooms have significantly higher pricing but represent a very smal
 
 ---
 
-### 📍 Top Neighbourhoods (by Listings)
+###  Top Neighbourhoods (by Listings)
 
 - Westminster: 4,915  
 - Hackney: 4,107  
@@ -82,7 +82,7 @@ Insight: Listings are concentrated in central boroughs, indicating high demand a
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### Interactive Filters
 - Neighbourhood  
@@ -99,7 +99,7 @@ Insight: Listings are concentrated in central boroughs, indicating high demand a
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 - Removed duplicate `listing_id`  
 - Handled missing values in `last_review`  
@@ -109,7 +109,7 @@ Insight: Listings are concentrated in central boroughs, indicating high demand a
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Looker Studio  
 - Google Sheets  
@@ -117,7 +117,7 @@ Insight: Listings are concentrated in central boroughs, indicating high demand a
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Upload dataset to Google Sheets  
 2. Connect it to Looker Studio  
@@ -127,7 +127,7 @@ Insight: Listings are concentrated in central boroughs, indicating high demand a
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 - Market trend analysis  
 - Pricing strategy optimization  
@@ -137,16 +137,14 @@ Insight: Listings are concentrated in central boroughs, indicating high demand a
 ---
 
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
-![Dashboard Screenshot]
-
-> Replace with your actual screenshot file
+![Dashboard Preview](Airbnb.dashboard.png)
 
 ---
 
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add calculated fields (Demand Score, Revenue Estimate)  
 - Build predictive pricing model  
@@ -155,7 +153,7 @@ Insight: Listings are concentrated in central boroughs, indicating high demand a
 
 ---
 
-## 🧠 Key Takeaways
+##  Key Takeaways
 
 - Pricing varies significantly by room type and location  
 - Central neighbourhoods dominate listing volume  
@@ -166,7 +164,3 @@ Insight: Listings are concentrated in central boroughs, indicating high demand a
 
 
 
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a star ⭐
