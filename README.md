@@ -12,17 +12,9 @@ This project transforms raw Airbnb listing data into an interactive dashboard to
 - Neighbourhood-level demand patterns  
 - Host activity and listing distribution  
 - Review and availability insights  
-
+![Dashboard Preview](Airbnb.png)
 ---
 
-
-
-## 🔗 Live Dashboard
-
-👉 View Dashboard: (Paste your Looker Studio link here)  
-> Ensure access is set to "Anyone with the link can view"
-
----
 
 ## 📂 Dataset Information
 
@@ -144,6 +136,16 @@ Insight: Listings are concentrated in central boroughs, indicating high demand a
 
 ---
 
+
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot]
+
+> Replace with your actual screenshot file
+
+---
+
+
 ## 🔮 Future Improvements
 
 - Add calculated fields (Demand Score, Revenue Estimate)  
@@ -162,13 +164,6 @@ Insight: Listings are concentrated in central boroughs, indicating high demand a
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
-
-> Replace with your actual screenshot file
-
----
 
 
 
